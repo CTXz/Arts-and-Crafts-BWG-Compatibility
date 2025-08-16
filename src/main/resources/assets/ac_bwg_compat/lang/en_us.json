@@ -1,0 +1,13 @@
+{
+  "itemGroup.ac_bwg_compat": "Example Mod Tab",
+  "block.ac_bwg_compat.example_block": "Example Block",
+  "item.ac_bwg_compat.example_item": "Example Item",
+
+  "ac_bwg_compat.configuration.title": "artsandcrafts-bwg-compat Configs",
+  "ac_bwg_compat.configuration.section.ac_bwg_compat.common.toml": "artsandcrafts-bwg-compat Configs",
+  "ac_bwg_compat.configuration.section.ac_bwg_compat.common.toml.title": "artsandcrafts-bwg-compat Configs",
+  "ac_bwg_compat.configuration.items": "Item List",
+  "ac_bwg_compat.configuration.logDirtBlock": "Log Dirt Block",
+  "ac_bwg_compat.configuration.magicNumberIntroduction": "Magic Number Text",
+  "ac_bwg_compat.configuration.magicNumber": "Magic Number"
+}
