@@ -98,7 +98,6 @@ dependencies {
 
     // Mod Dependencies
     dependencies {
-        implementation "curse.maven:jinxedlib-1203401:6332450"
         implementation "curse.maven:artsandcrafts-1034791:6746626"
         implementation "curse.maven:oh-the-biomes-weve-gone-1070751:6706596"
     }
